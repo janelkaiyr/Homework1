@@ -1,2 +1,2 @@
 # janelkaiyr.github.io
-Homework 1 TechOrda 
+Адаптивный макет, сделан на обучающем курсе "FRONTEND DEVELOPMENT" в SIGMA SOFTWARE
